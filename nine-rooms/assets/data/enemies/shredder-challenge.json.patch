@@ -1,0 +1,5 @@
+[
+{"type":"ENTER","index":"trackers"},
+{"type":"SET_KEY","index":"move","content":{"target":1.5,"initRandom":0.5,"resetRandom":0.5,"noStateReset":false,"type":"TIME"}},
+{"type":"EXIT","count":1}
+]

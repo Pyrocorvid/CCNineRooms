@@ -1,0 +1,10 @@
+{
+	"id":"past-booster",
+	"version":"0.1.0",
+	"title":"Past Booster",
+	"description":"Makes the Nine Rooms mod a little more... post-gamey.",
+	"homepage": "https://github.com/Pyrocorvid/CCNineRooms",
+	"dependencies": {
+		"nine-rooms": ">=0.1.0"
+	}
+}

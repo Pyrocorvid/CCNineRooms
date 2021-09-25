@@ -1,0 +1,8 @@
+[
+{"type":"ENTER","index":["floors",0,"maps",16]},
+{"type":"SET_KEY","index":"dungeon","content":"DUNGEON"},
+{"type":"EXIT","count":4},
+{"type":"ENTER","index":["floors",0,"maps",17]},
+{"type":"SET_KEY","index":"dungeon","content":"DUNGEON"},
+{"type":"EXIT","count":4}
+]

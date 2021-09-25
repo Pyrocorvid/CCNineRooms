@@ -1,0 +1,9 @@
+[
+{"type":"FOR_IN",
+"keyword":"__ENTITY__",
+"values":[14,15,19,21,28,40,41,72,77,80,116,117,118,125,126,132],
+"body":[
+{"type":"ENTER","index":["entities","__ENTITY__","settings","enemyInfo"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":4}]}
+]

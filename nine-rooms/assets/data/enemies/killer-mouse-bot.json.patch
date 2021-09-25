@@ -1,0 +1,5 @@
+[
+{"type":"ENTER","index":["actions","RunRandom"]},
+{"type":"REMOVE_ARRAY_ELEMENT","index":0},
+{"type":"EXIT","count":2}
+]

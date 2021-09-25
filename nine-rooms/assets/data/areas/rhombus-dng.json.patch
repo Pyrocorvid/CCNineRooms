@@ -1,0 +1,6 @@
+[
+{"type":"ENTER","index":["floors",0,"maps"]},
+{"type":"ADD_ARRAY_ELEMENT","content":{"path":"rhombus-dng.room-5-new","offset":{"x":0,"y":0},"name":{"en_US":"Puzzle Room 2.5","de_DE":"","fr_FR":"","ko_KR":"","ja_JP":"","zh_TW":"","langUid":22},"dungeon":""}},
+{"type":"ADD_ARRAY_ELEMENT","content":{"path":"rhombus-dng.room-4","offset":{"x":0,"y":0},"name":{"en_US":"Final Challenge","de_DE":"","fr_FR":"","ko_KR":"","ja_JP":"","zh_TW":"","langUid":22},"dungeon":""}},
+{"type":"EXIT","count":3}
+]

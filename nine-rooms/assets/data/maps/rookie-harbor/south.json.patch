@@ -1,0 +1,19 @@
+[
+{"type":"ENTER","index":["entities",148,"settings","dialog",0,"text"]},
+{"type":"SET_KEY","index":"en_US","content":"The entrance is open..."},
+{"type":"EXIT","count":5},
+{"type":"ADD_ARRAY_ELEMENT","content":{"type":"Door","x":1024,"y":914,"level":2,"settings":{"name":"theentrance","dir":"SOUTH","mapId":162,"map":"cargo-ship.room3","marker":"","hideCondition":"","blockEventCondition":"","variation":""}}},
+{"type":"EXIT","count":1},
+{"type":"ENTER","index":["layer",4,"data",56]},
+{"type":"REMOVE_ARRAY_ELEMENT","index":65},
+{"type":"REMOVE_ARRAY_ELEMENT","index":64},
+{"type":"ADD_ARRAY_ELEMENT","index":64,"content":765},
+{"type":"ADD_ARRAY_ELEMENT","index":64,"content":766},
+{"type":"EXIT","count":4},
+{"type":"ENTER","index":["layer",4,"data",57]},
+{"type":"REMOVE_ARRAY_ELEMENT","index":65},
+{"type":"REMOVE_ARRAY_ELEMENT","index":64},
+{"type":"ADD_ARRAY_ELEMENT","index":64,"content":797},
+{"type":"ADD_ARRAY_ELEMENT","index":64,"content":798},
+{"type":"EXIT","count":4}
+]

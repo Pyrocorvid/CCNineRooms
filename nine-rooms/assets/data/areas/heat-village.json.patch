@@ -1,0 +1,5 @@
+[
+{"type":"ENTER","index":["floors",1,"maps"]},
+{"type":"ADD_ARRAY_ELEMENT","content":{"path":"heat-village.inner-test","offset":{"x":0,"y":0},"name":{"en_US":"Inner Test","de_DE":"","fr_FR":"","ko_KR":"","ja_JP":"","zh_TW":"","langUid":22},"dungeon":""}},
+{"type":"EXIT","count":3}
+]

@@ -1,0 +1,10 @@
+[
+{"type":"ENTER","index":["entities",0,"settings"]},
+{"type":"SET_KEY","index":"condition","content":"false"},
+{"type":"EXIT","count":3},
+{"type":"ENTER","index":["entities",1,"settings"]},
+{"type":"SET_KEY","index":"map","content":"rhombus-dng.room-4"},
+{"type":"EXIT","count":2},
+{"type":"ADD_ARRAY_ELEMENT","content":{"type":"EventTrigger","x":368,"y":40,"level":0,"settings":{"name":"roomSetup","eventType":"PARALLEL","startCondition":"!tmp.roomsetup","endCondition":"tmp.roomsetup","event":[{"name":"info","type":"REMOVE_GUI"},{"mode":"SLOW","delayed":false,"type":"RESUME_DEFAULT_BGM"},{"varName":"tmp.roomsetup","changeType":"set","value":true,"type":"CHANGE_VAR_BOOL"}]}}},
+{"type":"EXIT","count":1}
+]

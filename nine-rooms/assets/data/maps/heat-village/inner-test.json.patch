@@ -1,0 +1,14 @@
+[
+{"type":"ENTER","index":["entities",42,"settings"]},
+{"type":"SET_KEY","index":"condition","content":"false"},
+{"type":"EXIT","count":3},
+{"type":"ENTER","index":["entities",43,"settings"]},
+{"type":"SET_KEY","index":"map","content":"forest.path-11-behind-maze-old"},
+{"type":"EXIT","count":2},
+{"type":"ADD_ARRAY_ELEMENT","content":{"type":"EventTrigger","x":368,"y":40,"level":0,"settings":{"name":"roomSetup","eventType":"PARALLEL","startCondition":"!tmp.roomsetup","endCondition":"tmp.roomsetup","event":[{"value":"NONE","type":"SET_MOBILITY_BLOCK"},{"varName":"tmp.roomsetup","changeType":"set","value":true,"type":"CHANGE_VAR_BOOL"}]}}},
+{"type":"EXIT","count":1},
+{"type":"ENTER","index":["attributes"]},
+{"type":"SET_KEY","index":"bgm","content":"heatVillage"},
+{"type":"SET_KEY","index":"area","content":"heat-village"},
+{"type":"EXIT","count":1}
+]

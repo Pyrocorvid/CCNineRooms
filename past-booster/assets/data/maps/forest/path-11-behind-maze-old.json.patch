@@ -1,0 +1,17 @@
+[
+{"type":"ENTER","index":["entities",114,"settings","enemyTypes",0,"info"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":6},
+{"type":"ENTER","index":["entities",114,"settings","enemyTypes",1,"info"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":6},
+{"type":"ENTER","index":["entities",115,"settings","enemyTypes",0,"info"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":6},
+{"type":"ENTER","index":["entities",116,"settings","enemyTypes",0,"info"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":6},
+{"type":"ENTER","index":["entities",123,"settings","enemyTypes",0,"info"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":6}
+]

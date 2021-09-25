@@ -1,0 +1,5 @@
+[
+{"type":"ENTER","index":["entities",283,"settings","enemyInfo"]},
+{"type":"SET_KEY","index":"level","content":80},
+{"type":"EXIT","count":4}
+]

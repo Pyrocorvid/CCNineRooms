@@ -1,0 +1,13 @@
+[
+{"type":"ENTER","index":["entities",285,"settings","event",26,"thenStep",0,"message"]},
+{"type":"SET_KEY","index":"en_US","content":"We took the liberty to change it."},
+{"type":"EXIT","count":4},
+{"type":"ADD_ARRAY_ELEMENT","index":0,"content":{"value":"TELEPORT","type":"SET_MOBILITY_BLOCK"}},
+{"type":"EXIT","count":4},
+{"type":"ENTER","index":["entities",286,"settings","event",30]},
+{"type":"SET_KEY","index":"map","content":"autumn.observatory-inner"},
+{"type":"EXIT","count":5},
+{"type":"ENTER","index":["entities",287,"settings","event"]},
+{"type":"REMOVE_ARRAY_ELEMENT","index":1},
+{"type":"EXIT","count":4}
+]
